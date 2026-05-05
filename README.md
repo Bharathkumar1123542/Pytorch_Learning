@@ -1,4 +1,4 @@
-# Pytorch_Learning
+# Deep Learning
 
 This repository documents my journey of learning PyTorch and the fundamentals of deep learning.🚀
 
